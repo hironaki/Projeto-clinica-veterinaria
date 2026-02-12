@@ -1,2 +1,14 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Forçar PHP
+*.php linguist-language=PHP
+
+# Forçar SQL
+*.sql linguist-language=SQL
+
+# Forçar CSS
+*.css linguist-language=CSS
+
+# Forçar JavaScript
+*.js linguist-language=JavaScript
